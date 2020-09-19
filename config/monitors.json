@@ -1,0 +1,30 @@
+[
+    {
+        "model": "Q32G1WG4",
+        "address": "0x60",
+        "configurations": [
+            {
+                "name": "windows",
+                "value": "15"
+            },
+            {
+                "name": "linux",
+                "value": "17"
+            }
+        ]
+    },
+    {
+        "model": "BenQ GW2406Z",
+        "address": "0x60",
+        "configurations": [
+            {
+                "name": "windows",
+                "value": "17"
+            },
+            {
+                "name": "linux",
+                "value": "1"
+            }
+        ]
+    }
+]
